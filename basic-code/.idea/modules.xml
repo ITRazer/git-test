@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/day23_函数式接口/day23_函数式接口.iml" filepath="$PROJECT_DIR$/day23_函数式接口/day23_函数式接口.iml" />
       <module fileurl="file://$PROJECT_DIR$/day24_Stream/day24_Stream.iml" filepath="$PROJECT_DIR$/day24_Stream/day24_Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day25_基础加强/day25_基础加强.iml" filepath="$PROJECT_DIR$/day25_基础加强/day25_基础加强.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day29_JDBC/day29_JDBC.iml" filepath="$PROJECT_DIR$/day29_JDBC/day29_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_JDBC连接池/day30_JDBC连接池.iml" filepath="$PROJECT_DIR$/day30_JDBC连接池/day30_JDBC连接池.iml" />
     </modules>
   </component>
 </project>
